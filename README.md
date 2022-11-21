@@ -1,2 +1,2 @@
-# VeriYap-lar-VeAlgoritmalar
+# VeriYapılarıveeAlgoritmalar
 Veri Yapıları ve Algoritmalar Projeleri
